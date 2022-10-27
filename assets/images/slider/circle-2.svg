@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<title>Slider</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-432-525.45h321.31c44.18 0 80 35.82 80 80v405.89c0 44.18-35.82 80-80 80h-321.31c-44.18 0-80-35.82-80-80v-405.89c0-44.18 35.82-80 80-80z"/>
+		</clipPath>
+		<image  width="25" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IB2cksfwAABNZJREFUeJx9lntMHEUcx38z+7g74Qq0PLQFWiS0Nk21/qVEJBRrNQVqI4mPpDE24Q9jorZoYmL6ivGRGgOpLYltYlEx2tA2NgURrKY2CgZFaCsWyKm9KspLCuQO9m5f48zuLDd3EDf5Zub2dr6f3++7s3uHPz7fDkyftHXBqfePQ9ORg3C8qQGO7n8emo/sg0/ffC6/fX9NdU/jnpeHj1YfCp/YdSD8Ue3eiQ9LK0a+PJTzx7dvwdSlZ2H8+3qY6HsHRq+2wNBQH1wf6l0UhtRDUgAQAv/cWE3WlY72gr6WwcKRtra8/uZ3V4XaD98RPv/62tFzjbmR3kvF4w2/5M60tijmZDlBKhCkLLFjRzJE9QOOTG0KdJ3oCv7w+QX5r5EqMOYzMF2rBABk1a0BJHaxDZIZyUuLXNmdMdtxOWO+47Rq/VNoo8AyEFo1E1F8gEeHd+ILJ7+zQsPbmZHko8YyvQi7ktilYmmIz+kY0K49mTVzrMdnjJQzEHErcSFmJAKmFgOt59yOSOt7rXo0loU9cyqZwahkBsGuKYGEHBDhox1bkztzuD134bMKH1kAjLBTA8aKAvbkjaJ426kWfUH3ER83pVK4VOxCZOSaLZrzORFBYASz594+k2H0l2DakUxTwmpABf1ya+PC9PxKUN1IHGMumcfEhFlchHsttkIHwj8S75SVvUI72aRaNyXJnqJx/T5QFr3602NsY2AOULA7esaOvEJFAJd4HnGwql9/OEP/ogZhg26mny/WGToBIrmZM4AsAFAimSXmjmxB/DPh36XHvnopaEwgrIUGK9lNZqYscwbC7oZLAjhaDpByjkDiO9kIP4Cs8fU4OjtXgITd40UjxuOst5ep/H/kdGObiqSP3o9BzF2IaPEQKibLRWRxpc65grHOIqzSDDBOzl80JylKMl8OxD8jNpoA81JBMWbuWLgP4rYUQbYHYQaWYJzahSi6XtanLKxIyJY4YPFFxqNhxhaXbblii4lnYgqyUuYc7jfiIbwiZ+VN553Hc0KQqNziIzM3qSxTAIigVIA3NwCm0x7/DQfXb/5aBjcuL6akLjjAk81NEDdhc+LJSpxzZPsiemBjN/ZtqfggEETEuycOgCQ6sHgHTCYfHWMjuWImZLhwrwBd3XRRx+tGsb1mc2/aPaVnA8R9VlhettCJ14FBFxqGK9twK3fMdbpEdwEezIvt38ynGiJyHmApPRPQtrpXgnlpU6p3bzyICOAQnYNEAHAhDxAD0IJlzZMZ27tNevcx0TTQg/l/2jX7nklPV+KLIBA68QCmC2Gy464xiy2pEwow/Hn9f69+rV4xFFAN+ogQw6YXGKCXbO1EO1/YHcy8bd5PEg8n64h1wQBxPSGdAbxOeFeg0akv99rY2r21upI9i22T/3jy1yuKR2GhZOtZ/dG6R9LvLBxIp2dl/kBadiIyZh6nXWhsNFwQ8K5mc0rP3LjrQKUhrwpjp1X3SPojgXQNYivyu2/tOlhuVtbW+3JyQn52EdtVcS8y5HQSo1WbMbbbMETTVv84uq766VDJi09o6u3T2NZE26V/iZBlgI3U6MyGbY0TVa/ee+uhPVWxDVuORfI3fhP1B3+dRxCeUrMHxvLu7gwVlL0xWFT94HBx7X3RtMLTLB7s7O2kVyz8B5wJyUd6ANEIAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="Group 217">
+		<g id="Header">
+			<g id="Img ">
+				<g clip-path="url(#cp1)">
+				</g>
+				<use id="Layer 13" href="#img1" x="0" y="0"/>
+			</g>
+		</g>
+	</g>
+</svg>

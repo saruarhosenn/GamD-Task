@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Rubik 700";
+  src: url("Rubik-Bold.woff") format("woff"),
+    url("Rubik-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rubik 600";
+  src: url("Rubik-SemiBold.woff") format("woff"),
+    url("Rubik-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rajdhani 700";
+  src: url("Rajdhani-Bold.woff") format("woff"),
+    url("Rajdhani-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

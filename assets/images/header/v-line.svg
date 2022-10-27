@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 32" width="8" height="32">
+	<title>Slider</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { opacity: .6;fill: #0f152c;stroke: #000000 } 
+	</style>
+	<g id="Group 217">
+		<g id="Header">
+			<g id="Header">
+				<path id="Rectangle 6" class="s0" d="m4 1c1.7 0 3 1.3 3 3v24c0 1.7-1.3 3-3 3-1.7 0-3-1.3-3-3v-24c0-1.7 1.3-3 3-3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

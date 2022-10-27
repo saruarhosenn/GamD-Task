@@ -1,0 +1,456 @@
+@media (max-width: 1599px) {
+  /* 
+  ===================================
+  variable
+  ===================================
+  */
+    :root {
+      /*------ Font Size --------*/
+      --size-2xl: 7rem;
+      --size-xl: 6rem;
+    }
+  
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .main-menu .menu-item:not(:first-child) {
+      margin-left: 3.5rem;
+    }
+  }
+  
+  @media (max-width: 1440px) {
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .bg-header .navBar .header-wrapper {
+      width: calc(100% - 10rem);
+    }
+  
+  /* 
+  ===============================
+  Slider Section Responsive
+  ===============================
+  */
+    .slider-content .shape {
+      width: 8rem;
+    }
+  
+    .slider-img .circle-2 {
+      right: -3%;
+    }
+  }
+  
+  @media (max-width: 1399px) {
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .bg-header .navBar .header-wrapper {
+      width: calc(100% - 6rem);
+    }
+  
+    .header-search-login .x-btn {
+      width: 8rem;
+    }
+  
+    .header-search-login .x-btn img {
+      width: 3rem;
+    }
+  }
+  
+  @media (max-width: 1300px) {
+  /* 
+  ===================================
+  variable
+  ===================================
+  */
+    :root {
+      /*------ Font Size --------*/
+      --size-2xl: 6rem;
+      --size-xl: 5rem;
+    }
+  
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .bg-header .navBar .header-wrapper {
+      width: calc(100% - 6rem);
+    }
+  
+    .header-logo img {
+      max-width: 14rem;
+    }
+  
+  /* 
+  ===============================
+  Slider Section Responsive
+  ===============================
+  */
+    .slider-title img {
+      width: 4rem;
+    }
+  }
+  
+  @media (max-width: 1199px) {
+  /* 
+  ===================================
+  variable
+  ===================================
+  */
+    :root {
+      /*------ Font Size --------*/
+      --size-2xl: 5rem;
+      --size-xl: 4rem;
+    }
+  
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .navBar .open-menu-btn {
+      margin-right: 3rem;
+    }
+  
+    .navBar .open-menu-btn,
+    .main-menu .close-menu-btn {
+      display: block;
+    }
+  
+    .navBar .main-menu {
+      margin-top: 0;
+      position: relative;
+      position: fixed;
+      top: 0;
+      left: -150%;
+      padding: 3rem;
+      background-color: #030b11;
+      width: 32rem;
+      z-index: 9999;
+      height: 100%;
+      overflow-x: hidden;
+      overflow-y: auto;
+      -webkit-transition: all 0.6s ease-in;
+      -o-transition: all 0.6s ease-in;
+      transition: all 0.6s ease-in;
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+    }
+  
+    .navBar .main-menu::-webkit-scrollbar {
+      display: none; /* for Chrome, Safari, and Opera */
+    }
+  
+    .navBar .open-menu {
+      background-color: #030b11;
+      left: 0%;
+      -webkit-transition: all 0.6s ease-in;
+      -o-transition: all 0.6s ease-in;
+      transition: all 0.6s ease-in;
+    }
+  
+    .navBar .main-menu ul {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+    }
+  
+    .main-menu .menu-item:not(:first-child) {
+      margin-left: 0rem;
+      margin-top: 1.2rem;
+    }
+  
+    .main-menu .menu-item .menu-link::after {
+      border-radius: 0;
+      top: 90%;
+      height: 0.3rem;
+    }
+  
+  /* 
+  ===============================
+  Slider Section Responsive
+  ===============================
+  */
+    .slider-section {
+      padding-bottom: 20rem;
+    }
+  
+    .slider-title img {
+      width: 3rem;
+    }
+  }
+  
+  @media (max-width: 970px) {
+  /* 
+  ===================================
+  variable
+  ===================================
+  */
+    :root {
+      /*------ Font Size --------*/
+      --size-2xl: 4rem;
+      --size-xl: 3rem;
+    }
+  
+  /* 
+  ===================================
+  Slider Section Responsive
+  ===================================
+  */
+    .slider-ml {
+      margin-left: 0rem;
+    }
+  
+    .slider-content .shape {
+      width: 6rem;
+    }
+  
+    .slider-img .circle-2 {
+      right: -4%;
+    }
+  }
+  
+  @media (max-width: 850px) {
+  /* 
+  ===============================
+  Slider Section Responsive
+  ===============================
+  */
+    .slider-section {
+      padding-bottom: 18rem;
+    }
+    .slider-img .circle-2 {
+      right: -6%;
+    }
+  }
+  
+  @media (max-width: 700px) {
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .header-logo img {
+      margin-top: -1.2rem;
+    }
+  
+    .header-search-login .v-line {
+      display: none;
+    }
+  
+    .header-search-login li:nth-child(1) {
+      margin-top: 0.8rem;
+      margin-right: 0;
+    }
+  
+    .navBar .open-menu-btn {
+      margin-right: 2rem;
+    }
+  
+    .header-login-sm-s {
+      display: block;
+    }
+  
+    .header-login-lg-s {
+      display: none;
+    }
+  
+  /* 
+  ===================================
+  Slider Section Responsive
+  ===================================
+  */
+    .slider-img .circle-2 {
+      right: -7%;
+    }
+  }
+  
+  @media (max-width: 751px) {
+  /* 
+  ===================================
+  variable
+  ===================================
+  */
+    :root {
+      /*------ Font Size --------*/
+      --size-2xl: 3.5rem;
+      --size-xl: 2.5rem;
+    }
+  
+  /* 
+  ===================================
+  Slider Section Responsive
+  ===================================
+  */
+    .slider-title img {
+      width: 2.5rem;
+    }
+  }
+  
+  @media (max-width: 670px) {
+  /* 
+  ===================================
+  Slider Section Responsive
+  ===================================
+  */
+    .slider-section {
+      padding: 10rem 0 20rem;
+    }
+  
+    .slider-wrapper {
+      padding: 0 0rem;
+    }
+  
+    .slider-wrapper .slider-container {
+      padding: 0 3rem;
+    }
+  
+    .slider-wrapper .slider-item {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      -webkit-box-pack: start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      -webkit-box-align: start;
+          -ms-flex-align: start;
+              align-items: flex-start;
+    }
+  
+    .slider-wrapper .slider-item > * {
+      width: 100%;
+    }
+  
+    .slider-item .slider-content {
+      margin-bottom: 5rem;
+    }
+  
+    .slider-item .slider-img {
+      max-width: 30rem;
+    }
+  
+    .slider-title img {
+      width: 2rem;
+    }
+  
+    .slider-content .shape {
+      width: 5rem;
+      right: 40%;
+    }
+  
+    .slider-img .circle-1 {
+      left: -7%;
+    }
+  
+    .company-logo {
+      padding: 0 3rem;
+    }
+  }
+  
+  @media (max-width: 600px) {
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .bg-header .navBar .header-wrapper {
+      width: calc(100% - 2rem);
+    }
+  
+  /* 
+  ===============================
+  Slider Section Responsive
+  ===============================
+  */
+    .slider-content .shape {
+      width: 5rem;
+      right: 30%;
+    }
+  }
+  
+  @media (max-width: 520px) {
+  /* 
+  ===================================
+  Slider Section Responsive
+  ===================================
+  */
+    .slider-section {
+      padding-bottom: 8rem;
+    }
+  }
+  
+  @media (max-width: 425px) {
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .bg-header .navBar .header-wrapper {
+      width: calc(100% - 1rem);
+    }
+    .header-logo img {
+      max-width: 12rem;
+    }
+  
+    .search-overlay-content {
+      padding: 0 2rem;
+    }
+  
+    .search-overlay-content .search-field {
+      width: 80%;
+    }
+  
+    .search-overlay-content .search-submit-btn {
+      width: 20%;
+    }
+  
+  /* 
+  ===============================
+  Slider Section Responsive
+  ===============================
+  */
+    .slider-content .shape {
+      width: 5rem;
+      right: 10%;
+    }
+  }
+  
+  @media (max-width: 370px) {
+  /* 
+  ===================================
+  variable
+  ===================================
+  */
+    :root {
+      /*------ Font Size --------*/
+      --size-2xl: 3.3rem;
+      --size-xl: 2.3rem;
+    }
+  
+  /* 
+  ===============================
+  Header Section Responsive
+  ===============================
+  */
+    .navBar .main-menu {
+      width: 100%;
+    }
+  }

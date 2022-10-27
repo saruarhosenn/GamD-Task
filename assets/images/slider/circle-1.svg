@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19" width="19" height="19">
+	<title>Slider</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m178-248.45h321.31c44.18 0 80 35.82 80 80v405.89c0 44.18-35.82 80-80 80h-321.31c-44.18 0-80-35.82-80-80v-405.89c0-44.18 35.82-80 80-80z"/>
+		</clipPath>
+		<image  width="19" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IB2cksfwAAA+dJREFUeJxVVEuIHUUUvfXpqv7Mm5k3M87wyGdiAioixEUEF/5QRBHduRFdBEl2KoII4kazc+lCyEIQhCwUAhoIgkRExJX4Wxgh/mDGmWQ+mf/redPdVXU91e85YMOlqrrqnjrn3kPpK9eu0vATtLVSktSK6rXkKV7qnbdr849lrjudGk2JIZKWKORuqZ7pfxXm9j6QafJj2t0kZeoWQdN/UEqQEDy9+5N5n64fe6moTlCRT1AxRpQLolThMEbZ6KO8Mnm22pp8oX9k/z03vfGuEoGIJfaFiKSoKpu59W/EVfHr7JnJdJaKIqc8C1RYpgyMUjAzCA1EiYtZCDuxlL+zKeaPDe5dOC+FD1rZlJq6tn9f2f3U/TB7ppuPIzGjLBGUGY/AmAAMa5MwwIiUYoocMi0pXR57eTU9uXgwf/uCDuRo7efdV/rf60cnkw7ZJCWrDJIBABYxMgBYrC2AI5iUQzAOTAkm4lb29j9TU5/pg52qe/PrnTd006MktZQoSwYZFlIM6oTat/JslAnJCULKWCImdkwKtReVNOOb6nXdX6ieGCxwbzIBiErISINRERQQGktKI8FAXoooUOiCKeCCMALTu5qMtzS+YZ7Wg2X/SNhXpCY0KQEQACkphlJiqAC7BBKoV7CBOGNQHDILDfZqSB8w2YHs6bAnT0nWJKN28JdoLc7FBmMeA4u4Dtj3+OswHzmAPLV78YzCnpZBotOC1ChZMA99h+T2cKNQE6yjbCQJN3InthUrkhVs4hCogE4KvZJAWgSKfwLjNAAZYIzbuMG9ByNjA1zVANTRZ2hEzPJMHimNRynNnPguLczZttXQ4LkiH+KYkEdyPBhA2zXUsm9l+TCUiXkIEnuCqtzd0MVxcy0/6kux6tGnGiAD3DIg5xU50HeuVToyKhjF+oQ4x4wFzks6APP+nfuXddKlxakH7UfbX9avsmjAqqEaYHWTwiIGI7c2id6KALEELbEoBfQiq80srO8c2b6otdI08QBfaBb4GfdHfYoJgBHMWTpo0GWgqEMgyEK9ovdi5z0klmC+enr9NTexdUtLmZDq0MbMs/75nc/5C1oc9ALa5fw+WEXvFW2hGXJCZMWxi9RKLEFu/f7VN8sTy58obLRPUGygmZG/dJ4LTw6+rS6Gv/TDDeRJdEA6GBaAgRJyAKjc0EPVdLO8fffKW+6ulUuRdUD3D9+zCChyum4eGjxOJ92L/Gd9rtqsT1dl2elDshFjZLOsllP0e3389uXmjv6H0oqbiVOQ7v//OLZf/IdnhHv1x9xtLvFeeU9m8/sy2+mw7tdl2dzw49Vvsmj25H4B3xXR1Yfp/wKkf8Yv+BupEgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="Group 217">
+		<g id="Header">
+			<g id="Img ">
+				<g clip-path="url(#cp1)">
+				</g>
+				<use id="Layer 12" href="#img1" x="0" y="0"/>
+			</g>
+		</g>
+	</g>
+</svg>

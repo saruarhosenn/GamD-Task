@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>Slider</title>
+	<defs>
+		<image  width="16" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAAXNSR0IB2cksfwAAASBQTFRF29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29ra29raLHbd6AAAAGB0Uk5TADOM0f7/+82EKmfk3Mvg21hp+rNEHhcfSr/1VzXlhwYMniSOAw/KiNf9PVbH2hka9uIvxBTn7Toc9+HUQVrFEIq70CyWrdIVYFIN0yZf9OPWzykri++GGyLOMjwwESX85pRKCgAAAMhJREFUeJxFj2lbAXEUxY84WZuUbCmjZUImu1BRobTZd8L3/xb+GOO8Oc/vnHvv81wAMBwYTTw0W6zYymYnHUcSeezc8MkpXWduj9fn53lA8MUlg/KmCV1RugZu6LrVdpU7hoFI9B47xagqiD7E9SCRTKXBTFYPlNxjHibHfqJQfErjmS96UGL5FW98lzXOVhgEqhJroS1/8LMu/CvJ8nf8p1Ayk79/66Yhfmm2igLb7HTXSa+v2gepzHA0nrCinZvO/ufCF+pyBXsiFxOdaK+mAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="Group 217">
+		<g id="Header">
+			<g id="Header">
+				<use id="Layer 7" href="#img1" x="0" y="0"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 38" width="45" height="38">
+	<title>Slider</title>
+	<defs>
+		<image  width="45" height="38" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAmCAMAAABnA+JrAAAAAXNSR0IB2cksfwAAAeNQTFRF7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/vfMwZvQAAAKF0Uk5TADJ3cnzmCREZHSEmKi4zODxDJGf/NArn+/79XpEVYO4gVYctVqCEQONNpOgY4GwIPb5HqUIS4uwluy+ttRTkP7cMixbGWJvXjmK4cHr6ubptdpS9vGqIwdt1gsQbzWYDyDeASQHMNaXyBpnzK9C//CLVj6M272iK3IYcZAfD2vBKZQ1OC+vZqHQP4VAast/Tax+0iV3U9wTOmnNuU0i2RTlvqeRgAAACL0lEQVR4nJWU51tTMRTGX6WCSqFID5TiKFIVRRApKmoBlQqKCop71FEHyhDcAwcqqLgXDtx/qklOWnJ7c5/Hni9533N+aU5ykwI5xKxc4Nl5OcC+OflqLJg7b36hv6g4ULKg1BMOUpkay0MVYdJRGfCAF9IiFovJiLB9K0soolWVSVPFUgtcTRTVMkrOWOaClxOtSOsa3cPKNL4qC64lWp0xdfW8wTUNaxsZjzngJpFZN2PXb1BM80ZgE+ObDTgufIs5u7WNoS3AViVC2zK1dukLHIsltjPeAXQqsaNQV3ZK15W97V2M7wb2KNHNW+2Rusd1SNjL+D6gV4n9MnlAyVY3jYOMHwLyxHBYpo6oTK8FBo4yHgSO0XGZOKF8vRVG8iTjp/jenz7DNmWncVZ/y3NCn/dfYNPoAffpe3sxKUxDhM2lfg9af/YB2QUQq1Ru0KORIZo5ucvDYinGR65Y6auqeE3KFqLrwA3u7GaVBb6lSreFSt6RqglI8WoRN56v1r0r5ShvMA4Ewh74sEzfY30/rqAHdYg+VGrskRN+LJMx51wKjeKJ/sDjJlw+IjLG853gV/dUtPCMcfP1PRd+0pyeCHHHxXjxkvFXmVqKb7YZr5sZanvzlsW7TEk84/fZ2/4wRo74mC58ou6pbBgo/eyga3W6j74UuWHg6zeTntbZQfLbYKDf/PUBzk3TkB0WB+nzff8R7Jrq+Dn+iy9XDXn9CVsi8fvP/8P4W5YD/A/GO2dU2TfovQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g id="Group 217">
+		<g id="Header">
+			<g id="Header">
+				<g id="Group 6">
+					<use id="Shape 3 copy" href="#img1" x="0" y="0"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
